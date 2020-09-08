@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Doe",
+    "company": "Google",
+    "age": 39
+  },
+  {
+    "id": 2,
+    "name": "Lea",
+    "surname": "Smith",
+    "company": "Amazon",
+    "age": 30
+  },
+  {
+    "id": 3,
+    "name": "Tom",
+    "surname": "Williams",
+    "company": "Microsoft",
+    "age": 42
+  }
+]
